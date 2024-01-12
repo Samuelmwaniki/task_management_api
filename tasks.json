@@ -4,7 +4,7 @@
     "Task": {  
         "name": "cleaning",   
         "id":     1 , 
-       "ompleted": "no"
+       "completed": "no"
     }  
 }  
     
